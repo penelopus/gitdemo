@@ -14,4 +14,6 @@ This is yet another change via jd/featureA branch.
 
 Now, prepare a PR to merge this into master.
 
+- add a change via jd/featureC
+
 
